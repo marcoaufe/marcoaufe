@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @marcoaufe
+- 👀 I’m interested in open source
+- 🌱 I’m currently learning HTML and CSS
